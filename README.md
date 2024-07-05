@@ -1,14 +1,7 @@
 # Movie Recommendation System
 
-## What and Why
+The project aimed to enhance user experiences through a comprehensive movie recommendation system. It utilized various algorithms, including simple recommenders, content-based recommenders, collaborative filtering, and hybrids, to offer personalized movie suggestions tailored to individual preferences. Ensembling these algorithms leveraged their strengths to deliver more accurate recommendations, ultimately boosting user satisfaction and engagement in the digital era.
 
-1. **Recommendation Systems**: In the digital era, recommendation systems play a crucial role in enhancing user experiences by providing personalized and relevant suggestions, thereby increasing user engagement.
-   
-2. **Project Objective**: This project aimed to develop a comprehensive movie recommendation system utilizing various algorithms, including simple recommenders, content-based recommenders, collaborative filtering, and a hybrid approach.
-   
-3. **Techniques Used**: By combining different recommendation techniques, the system offered diverse and personalized movie suggestions tailored to individual user preferences and tastes.
-   
-4. **Advantages of Ensemble**: Ensembling multiple recommendation algorithms allowed leveraging their strengths, resulting in more accurate and relevant movie recommendations. This approach ultimately enhanced user satisfaction and engagement.
 
 ## Dataset Overview
 
